@@ -1,0 +1,13 @@
+print("data diri mahasiswa")
+nim  = input('NIM:  ')
+nama  = input('Nama:  ')
+alamat  = input('Alamat:  ')
+umur  = input('Umur:  ')
+jurusan = input('Jurusan:  ')
+
+print('hasil data diri diatas')
+print('NIM:  ' +str(nim))
+print('nama:  ' +str(nama))
+print('alamat:  ' +str(alamat))
+print('umur:  ' +str(umur))
+print('jurusan' +str(jurusan)) 
