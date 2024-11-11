@@ -27,10 +27,7 @@ public class Kasir {
                 diskon = 0;
             }
         }
-
         bayar = belanjaan - diskon;
-        
-
         System.out.println("Total Bayar: Rp " + bayar);
     }
 }

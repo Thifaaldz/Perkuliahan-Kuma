@@ -17,7 +17,6 @@ System.out.println("Bilangan genap:");
         System.out.print(i + " ");
         }
     }
-
 System.out.println("\nBilangan ganjil:");
 
     for (int i = batasBawah; i <= batasAtas; i++) {
